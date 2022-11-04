@@ -1120,6 +1120,11 @@ header p {
 }
 
   /* Main styling */
+  main {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
   main h2 {
     font-weight: 600;
     font-size: 20px;
@@ -1137,7 +1142,7 @@ main .firstarrival {
 }
 
 main .firstarrival img {
-  width: 115px;
+  width: 130px;
   height: 100px;
 }
 main .firstarrival p {
@@ -1156,7 +1161,7 @@ main .secondarrival {
 }
 
 main .secondarrival img {
-  width: 115px;
+  width: 130px;
   height: 100px;
 }
 main .secondarrival p {
@@ -1175,7 +1180,7 @@ main .thirdarrival {
 }
 
 main .thirdarrival img {
-  width: 115px;
+  width: 130px;
   height: 100px;
 }
 main .thirdarrival p {
@@ -1194,7 +1199,7 @@ main .fourtharrival {
 }
 
 main .fourtharrival img {
-  width: 115px;
+  width: 130px;
   height: 100px;
 }
 main .fourtharrival p {
