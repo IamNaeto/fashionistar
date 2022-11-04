@@ -1105,9 +1105,9 @@ header h3 {
 }
 header h2 {
   font-weight: 500;
-  font-size: 18px;
+  font-size: 17.5px;
   padding-top: 60px;
-  padding-left: 25px;
+  padding-left: 20px;
   color: #fff;
 }
 header p {
@@ -1226,8 +1226,8 @@ footer {
   margin-top: 30px;
   height: 450px;
   padding-top: 20px;
-  padding-left: 35px;
-  padding-right: 35px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 footer h2 img{
   width: 80px;
@@ -1326,7 +1326,7 @@ footer .footer .contact li a {
 }
 footer .copyright {
   font-weight: 500;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 18px;
   color: #353535;
   text-align: center;
