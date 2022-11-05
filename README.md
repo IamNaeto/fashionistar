@@ -1,7 +1,7 @@
 ## Fashionistar
 - A tech leap shopping page built with ``HTML`` and ``CSS`` markup languages.
 
-    - Live Link :: [Go Live](https://iamnaeto.github.io/fashionistar/) 
+    - Live Link :: [Go Live](https://fashionistar.iamnaeto.repl.co/) 
 
 ## Author: Charles Obimnaeto Egesionu ##
 
