@@ -113,6 +113,31 @@ main .firstarrival {
     4px 4px 4px rgba(206, 206, 206, 0.25);
   margin-bottom: 25px;
 }
+.firstarrivalbox:hover .hero-btn{
+  opacity: 1;
+}
+
+.hero-btn{
+  color: #fff;
+  background-color: #7d0a80;
+  font-size: 16px;
+  width: 188px;
+height: 48px;
+padding: 12px;
+border-radius: 4px;
+margin: 10px;
+opacity: 0;
+cursor: pointer;
+}
+
+.hero-btn > .hero-img, .hero-btn > span{
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+
 
 main .firstarrival img {
   width: 300px;
@@ -138,6 +163,9 @@ main .secondarrival {
   margin-bottom: 25px;
   box-shadow: -4px 4px 4px rgba(206, 206, 206, 0.25),
     4px 4px 4px rgba(206, 206, 206, 0.25);
+}
+.secondarrivalbox:hover .hero-btn{
+  opacity: 1;
 }
 
 main .secondarrival img {
@@ -165,6 +193,9 @@ main .thirdarrival {
   box-shadow: -4px 4px 4px rgba(206, 206, 206, 0.25),
     4px 4px 4px rgba(206, 206, 206, 0.25);
 }
+.thirdarrivalbox:hover .hero-btn{
+  opacity: 1;
+}
 
 main .thirdarrival img {
   width: 300px;
@@ -191,7 +222,9 @@ main .fourtharrival {
   box-shadow: -4px 4px 4px rgba(206, 206, 206, 0.25),
     4px 4px 4px rgba(206, 206, 206, 0.25);
 }
-
+.fourtharrivalbox:hover .hero-btn{
+  opacity: 1;
+}
 main .fourtharrival img {
   width: 300px;
   height: 240px;
@@ -852,6 +885,19 @@ header p {
     margin-bottom: 20px;
     color: #1a1a1a;
   }
+  .hero-btn{
+    width: 120px;
+  height: 40px;
+  padding: 5px;
+  margin: 5px;
+  opacity: 1;
+  }
+  .hero-btn > .hero-img, .hero-btn > span{
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    vertical-align: middle;
+  }
 
 main .firstarrival {
   display: flex;
@@ -1120,6 +1166,9 @@ header p {
 }
 
   /* Main styling */
+  .hero-btn{
+    opacity: 1;
+  }
   main {
     margin-left: 20px;
     margin-right: 20px;
